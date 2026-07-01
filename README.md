@@ -34,6 +34,8 @@ Currently contributing to open source through GSSoC 2026, focused on AI/ML Pytho
 
 ### Open Source
 
+
+
 - GSSoC 2026 Contributor
 - PR #164 — [fetchai/innovation-lab-examples](https://github.com/fetchai/innovation-lab-examples/pull/164) — Gemini Task Manager Agent
 
