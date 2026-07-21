@@ -11,6 +11,7 @@ Currently contributing to open source through GSSoC 2026, focused on AI/ML Pytho
 
 - Tech Lead Intern at Viswam.AI
 - GFG Campus Mantri at St. Peter's Engineering College
+- AWS Student Builder Group Leader
 - GSSoC 2026 Contributor
 
 ---
